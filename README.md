@@ -10,3 +10,5 @@ The repository consists of the basic swift programs. I am sharing the basic apps
    The app takes an input from user and determines if the number is a prime number or not. Basic simple app which helps          understanding the operators.
 4. Timer App
    The app presents a timer which provides start, pause, reset, add 10 secs and subtract 10 secs functionality. The purpose of    this app is to get aqquainted with swift timer.
+5. Times table App
+   The app make use of a slider and shows the table of 1 to 20 numbers in a table view. The purpose of the app is to know the    slider and the table view object of swift.
