@@ -12,3 +12,5 @@ The repository consists of the basic swift programs. I am sharing the basic apps
    The app presents a timer which provides start, pause, reset, add 10 secs and subtract 10 secs functionality. The purpose of    this app is to get aqquainted with swift timer.
 5. Times table App
    The app make use of a slider and shows the table of 1 to 20 numbers in a table view. The purpose of the app is to know the    slider and the table view object of swift.
+6. ToDo App 
+   The app uses a table view and UserDefaults to list out and and store the todo list data. It uses swipe delete functionality    of the table view.  
